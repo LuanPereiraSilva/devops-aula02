@@ -1,4 +1,5 @@
 # devops-aula02
 Paul Walker
-Thiago Ventura
+Thiago Ventura de tabuão 
 Cirilo
+Bruna Marquezine
